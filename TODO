@@ -2,6 +2,7 @@ Modules to create:
     Space - the module that represent the world
     ForceField - the module that represent a forceField in the world
     UniversalField - the module that represent all the fields in the world
+    Collition - 
     Object - the moduel that represent one item in the Space
     Tardis - the module that is responsible that everything will tick on time
     
